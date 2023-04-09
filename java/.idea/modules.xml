@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalTest1/FinalTest1.iml" filepath="$PROJECT_DIR$/FinalTest1/FinalTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NiMingNeiBuLei/NiMingNeiBuLei.iml" filepath="$PROJECT_DIR$/NiMingNeiBuLei/NiMingNeiBuLei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalTest1/Test1/Test1.iml" filepath="$PROJECT_DIR$/FinalTest1/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiekou/Test2/Test2.iml" filepath="$PROJECT_DIR$/jiekou/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bao/bao.iml" filepath="$PROJECT_DIR$/bao/bao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eqalsTest/eqalsTest.iml" filepath="$PROJECT_DIR$/eqalsTest/eqalsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiekou/test03/homework/homework.iml" filepath="$PROJECT_DIR$/jiekou/test03/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bao/homework123/homework123.iml" filepath="$PROJECT_DIR$/bao/homework123/homework123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiekou/jiekou.iml" filepath="$PROJECT_DIR$/jiekou/jiekou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract/tesr/tesr.iml" filepath="$PROJECT_DIR$/abstract/tesr/tesr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiekou/test/test.iml" filepath="$PROJECT_DIR$/jiekou/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NiMingNeiBuLei/test01/test01.iml" filepath="$PROJECT_DIR$/NiMingNeiBuLei/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiekou/test03/test03.iml" filepath="$PROJECT_DIR$/jiekou/test03/test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eqalsTest/test1/test1.iml" filepath="$PROJECT_DIR$/eqalsTest/test1/test1.iml" />
+    </modules>
+  </component>
+</project>

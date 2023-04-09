@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/FinalTest1/FinalTest1.iml" filepath="$PROJECT_DIR$/java/FinalTest1/FinalTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java学习历程.iml" filepath="$PROJECT_DIR$/.idea/Java学习历程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/NiMingNeiBuLei/NiMingNeiBuLei.iml" filepath="$PROJECT_DIR$/java/NiMingNeiBuLei/NiMingNeiBuLei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/String/String.iml" filepath="$PROJECT_DIR$/java/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/jiekou/Test2/Test2.iml" filepath="$PROJECT_DIR$/java/jiekou/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/abstract/abstract.iml" filepath="$PROJECT_DIR$/java/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/array/array.iml" filepath="$PROJECT_DIR$/java/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/bao/bao.iml" filepath="$PROJECT_DIR$/java/bao/bao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/collection/collection.iml" filepath="$PROJECT_DIR$/java/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/eqalsTest/eqalsTest.iml" filepath="$PROJECT_DIR$/java/eqalsTest/eqalsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/exception/exception.iml" filepath="$PROJECT_DIR$/java/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/jiekou/test03/homework/homework.iml" filepath="$PROJECT_DIR$/java/jiekou/test03/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/bao/homework123/homework123.iml" filepath="$PROJECT_DIR$/java/bao/homework123/homework123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 复习/java 复习.iml" filepath="$PROJECT_DIR$/java 复习/java 复习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaStudent/java/javaStudent.iml" filepath="$PROJECT_DIR$/javaStudent/java/javaStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/jiekou/test/test.iml" filepath="$PROJECT_DIR$/java/jiekou/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/jiekou/test03/test03.iml" filepath="$PROJECT_DIR$/java/jiekou/test03/test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaStudent/zuoYe/zuoYe.iml" filepath="$PROJECT_DIR$/javaStudent/zuoYe/zuoYe.iml" />
+    </modules>
+  </component>
+</project>
