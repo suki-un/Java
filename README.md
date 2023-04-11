@@ -1,4 +1,4 @@
-<h1 style=" text-align: center; color: cornflowerblue">JAVA</h1>
+<h1 align="center" style="color: cornflowerblue">JAVA</h1>
 
 # **Kafka知识总结**
 
