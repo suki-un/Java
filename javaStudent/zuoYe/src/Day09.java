@@ -56,6 +56,19 @@ public class Day09 {
         boolean isPrime = new Prime().isPrime(input2);
         System.out.println(isPrime);
         scan.close();
+
+        //第五题
+        /*5、从键盘接收一个正整数，该正整数作为行数，输出以下图形
+            *
+           ***
+          *****
+         *******
+        *********
+        例如：输入5，则打印如上图5行。*/
+        System.out.println("请输入一个正整数：");
+        int input3 = scan.nextInt();
+        int out2 = new Factorial().factorial(input3);
+
     }
 
 }
